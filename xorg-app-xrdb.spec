@@ -9,7 +9,7 @@ Source0:	http://xorg.freedesktop.org/releases/individual/app/xrdb-%{version}.tar
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 # just xmuu
 BuildRequires:	xorg-libXmu-devel
 BuildRequires:	xorg-util-macros
