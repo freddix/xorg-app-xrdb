@@ -1,11 +1,11 @@
 Summary:	xrdb application
 Name:		xorg-app-xrdb
-Version:	1.0.9
+Version:	1.1.0
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xrdb-%{version}.tar.bz2
-# Source0-md5:	ed2e48cf33584455d74615ad4bbe4246
+# Source0-md5:	b54c7e3e53b4f332d41ed435433fbda0
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
